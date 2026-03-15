@@ -1,16 +1,14 @@
-## Hi there 👋
+Hello, I'm Noor Matar 
+I'm a Front-End Developer from Egypt. I specialize in building responsive and modern web applications using React and Next.js. I enjoy creating clean, user-friendly interfaces and writing scalable code. I’m passionate about learning new technologies, improving my development skills, and contributing to meaningful projects.
 
-<!--
-**NoorMatar444/NoorMatar444** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+SKILLS
+html,css,Tailwind,Sass,javaScript,TypeScrypt,React,Next.js,Redux,Bootstarp and Git
 
-Here are some ideas to get you started:
+Projects
+E-commerce project website
+Social project website
+meals project website
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Contact
+Email: noormatar480@gmail.com
+Linkedin: www.linkedin.com/in/noor-matar 
