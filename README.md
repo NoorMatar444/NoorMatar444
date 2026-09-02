@@ -57,39 +57,27 @@ I'm a Full-Stack Developer passionate about building modern, scalable, and user-
 
 ## ⭐ Featured Projects
 
-### 🛒 E-Commerce Application
-
-A full-stack e-commerce application with modern frontend and backend architecture.
-
-**Highlights:**
-- User authentication and authorization
-- Product management
-- Shopping cart
-- Order management
-- Notifications
-- REST API integration
-- MongoDB database
-- Redis integration
-- Dockerized development environment
-- AWS S3 integration
-
-🔗 [GitHub Repository](https://github.com/NoorMatar444/E-Commerce-App)
-
-### 🍽️ Meals Application
-
-A modern meals and recipes application built with Next.js and API integration.
-
-**Highlights:**
-- Responsive user interface
-- API integration
-- Dynamic meal data
-- Reusable components
-- Search and browsing functionality
-- Modern frontend architecture
+### 🍽️ Meals
+A Next.js + TypeScript app that displays a wide variety of meals. Browse and discover meals from a REST API using TanStack Query, React Hook Form, Axios, and Tailwind.
 
 🔗 [GitHub Repository](https://github.com/NoorMatar444/Meals-project)
 
-## 📫 Connect With Me
+### 🌐 Social-web
+A simple social website built with React (Vite) — posts, forms, and API integration. TanStack Query, React Hook Form, Zod.
+
+🔗 [GitHub Repository](https://github.com/NoorMatar444/Social-web) · [Live demo](https://noor-social-web.vercel.app)
+
+### 🛒 E-commerce-app-BE
+My backend code for my e-commerce project. NestJS + TypeScript API with JWT auth, MongoDB, Redis, S3, Stripe, and Socket.io.
+
+🔗 [GitHub Repository](https://github.com/NoorMatar444/E-Commerce-App-Backend)
+
+### 💬 Social-media-BE
+NestJS + TypeScript backend for the social media app — REST API and server-side business logic.
+
+🔗 [GitHub Repository](https://github.com/NoorMatar444/Social-media-Backend-project)
+
+## 📬 Connect With Me
 
 - 💼 LinkedIn: https://www.linkedin.com/in/noor-matar
 - 🐙 GitHub: https://github.com/NoorMatar444
