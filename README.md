@@ -75,6 +75,16 @@ My backend code for my e-commerce project. NestJS + TypeScript API with JWT auth
 ### 💬 Social-media-BE
 NestJS + TypeScript backend for the social media app — REST API and server-side business logic.
 
+**Features:**
+- JWT authentication and Google OAuth
+- Email confirmation and password reset (OTP)
+- User profiles, profile pictures, and cover photos (AWS S3)
+- Posts with media attachments, likes, and home feed
+- Comments
+- Follow / unfollow
+- MongoDB, Redis, Docker
+- Socket.io (coming soon)
+
 🔗 [GitHub Repository](https://github.com/NoorMatar444/Social-media-Backend-project)
 
 ## 📬 Connect With Me
