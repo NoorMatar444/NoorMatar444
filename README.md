@@ -60,15 +60,42 @@ I'm a Full-Stack Developer passionate about building modern, scalable, and user-
 ### 🍽️ Meals
 A Next.js + TypeScript app that displays a wide variety of meals. Browse and discover meals from a REST API using TanStack Query, React Hook Form, Axios, and Tailwind.
 
+**Features:**
+- Browse meals, ingredients, and categories
+- Meal details pages
+- Search by name and first letter
+- Random meal
+- Filter by category, area, and main ingredient
+- TheMealDB REST API integration
+
 🔗 [GitHub Repository](https://github.com/NoorMatar444/Meals-project)
 
 ### 🌐 Social-web
 A simple social website built with React (Vite) — posts, forms, and API integration. TanStack Query, React Hook Form, Zod.
 
+**Features:**
+- Register, login, and protected routes
+- Home feed and create posts
+- Post details
+- Comments (create, update, delete)
+- User profile, photo upload, and change password
+- Deployed on Vercel
+
 🔗 [GitHub Repository](https://github.com/NoorMatar444/Social-web) · [Live demo](https://noor-social-web.vercel.app)
 
 ### 🛒 E-commerce-app-BE
 My backend code for my e-commerce project. NestJS + TypeScript API with JWT auth, MongoDB, Redis, S3, Stripe, and Socket.io.
+
+**Features:**
+- JWT authentication
+- Products and categories
+- Shopping cart
+- Orders
+- Stripe payments
+- Notifications
+- File uploads (AWS S3)
+- MongoDB, Redis, Docker
+- Socket.io
 
 🔗 [GitHub Repository](https://github.com/NoorMatar444/E-Commerce-App-Backend)
 
