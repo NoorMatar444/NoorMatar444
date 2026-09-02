@@ -110,7 +110,7 @@ NestJS + TypeScript backend for the social media app — REST API and server-sid
 - Comments
 - Follow / unfollow
 - MongoDB, Redis, Docker
-- Socket.io (coming soon)
+- Socket.io
 
 🔗 [GitHub Repository](https://github.com/NoorMatar444/Social-media-Backend-project)
 
