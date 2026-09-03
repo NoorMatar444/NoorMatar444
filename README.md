@@ -30,6 +30,7 @@ I'm a Full-Stack Developer passionate about building modern, scalable, and user-
 - React Query
 - Axios
 - React Hook Form
+- NextAuth
 
 ### Backend
 - Node.js
@@ -70,18 +71,18 @@ A Next.js + TypeScript app that displays a wide variety of meals. Browse and dis
 
 🔗 [GitHub Repository](https://github.com/NoorMatar444/Meals-project)
 
-### 🌐 Social-web
-A simple social website built with React (Vite) — posts, forms, and API integration. TanStack Query, React Hook Form, Zod.
+### 🛍️ E-Commerce-App-Frontend
+A Next.js + TypeScript storefront with product listings, cart, and user flows. NextAuth, React Hook Form, Axios, and Tailwind.
 
 **Features:**
-- Register, login, and protected routes
-- Home feed and create posts
-- Post details
-- Comments (create, update, delete)
-- User profile, photo upload, and change password
+- Product listings, categories, brands, and product details
+- Shopping cart and wishlist
+- Register, login, and NextAuth
+- Checkout, addresses, and order history
+- Form validation with React Hook Form and Zod
 - Deployed on Vercel
 
-🔗 [GitHub Repository](https://github.com/NoorMatar444/Social-web) · [Live demo](https://noor-social-web.vercel.app)
+🔗 [GitHub Repository](https://github.com/NoorMatar444/E-Commerce-App-Frontend) · [Live demo](https://noor-ecommerce-app.vercel.app)
 
 ### 🛒 E-commerce-app-BE
 My backend code for my e-commerce project. NestJS + TypeScript API with JWT auth, MongoDB, Redis, S3, Stripe, and Socket.io.
