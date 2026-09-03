@@ -1,8 +1,6 @@
 # Hi, I'm Noor Matar 👋
 
-### Full-Stack Developer · UAE resident (Golden Visa)
-
-React · Next.js · Node.js · NestJS · TypeScript
+### Full-Stack Developer | React | Next.js | Node.js | NestJS | TypeScript | UAE resident (Golden Visa)
 
 I'm a Full-Stack Developer passionate about building modern, scalable, and user-friendly web applications. I work across both frontend and backend development, with a focus on clean architecture, performance, and maintainable code.
 
