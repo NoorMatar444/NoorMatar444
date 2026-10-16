@@ -84,7 +84,7 @@ A Next.js + TypeScript storefront with product listings, cart, and user flows. N
 
 🔗 [GitHub Repository](https://github.com/NoorMatar444/E-Commerce-App-Frontend) · [Live demo](https://noor-ecommerce-app.vercel.app)
 
-### 🛒 E-Commerce API
+### 🛒 Shop API
 NestJS + TypeScript API for the e-commerce app, with JWT auth, MongoDB, Redis, S3, Stripe, and Socket.io.
 
 **Features:**
@@ -100,7 +100,7 @@ NestJS + TypeScript API for the e-commerce app, with JWT auth, MongoDB, Redis, S
 
 🔗 [GitHub Repository](https://github.com/NoorMatar444/E-Commerce-App-Backend)
 
-### 💬 Social Media API
+### 💬 Social API
 NestJS + TypeScript backend for the social media app — REST API and server-side business logic.
 
 **Features:**
