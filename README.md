@@ -84,19 +84,36 @@ A Next.js + TypeScript storefront with product listings, cart, and user flows. N
 
 🔗 [GitHub Repository](https://github.com/NoorMatar444/E-Commerce-App-Frontend) · [Live demo](https://noor-ecommerce-app.vercel.app)
 
-### 💼 Job-Board-BE
-NestJS + TypeScript REST API for posting, searching, and managing job listings.
+### 🛒 E-Commerce API
+NestJS + TypeScript API for the e-commerce app, with JWT auth, MongoDB, Redis, S3, Stripe, and Socket.io.
 
 **Features:**
-- Job posts, applications, and saved jobs
-- Employer and candidate roles
+- JWT authentication
+- Products and categories
+- Shopping cart
+- Orders
+- Stripe payments
+- Notifications
+- File uploads (AWS S3)
+- MongoDB, Redis, Docker
+- Socket.io
+
+🔗 [GitHub Repository](https://github.com/NoorMatar444/E-Commerce-App-Backend)
+
+### 💬 Social Media API
+NestJS + TypeScript backend for the social media app — REST API and server-side business logic.
+
+**Features:**
 - JWT authentication and Google OAuth
 - Email confirmation and password reset (OTP)
-- Resume uploads
-- Socket.io notifications
-- MongoDB and Docker
+- User profiles, profile pictures, and cover photos (AWS S3)
+- Posts with media attachments, likes, and home feed
+- Comments
+- Follow / unfollow
+- MongoDB, Redis, Docker
+- Socket.io
 
-🔗 [GitHub Repository](https://github.com/NoorMatar444/Job-Board-BE)
+🔗 [GitHub Repository](https://github.com/NoorMatar444/Social-media-Backend-project)
 
 ## 📬 Connect With Me
 
